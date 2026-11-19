@@ -1,0 +1,14 @@
+path: ./dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: healthy_green
+  1: healthy_senescent
+  2: abiotic_chlorosis
+  3: early_blight
+  4: late_blight
+  5: powdery_mildew
+  6: bacterial_spot
+  7: rust
